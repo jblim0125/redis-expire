@@ -1,0 +1,10 @@
+### Binaries ###
+bin/
+build/bin/
+db/
+.cache/
+.idea/
+.vscode/
+/redis_expire.exe
+/docs/swagger.json
+/docs/swagger.yaml
